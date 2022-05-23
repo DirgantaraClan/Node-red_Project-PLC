@@ -1,0 +1,12 @@
+{
+    "name": "Node-red-Project-PLC",
+    "description": "Komunikasi Data PLC",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_Dir-Tech.json",
+            "credentialsFile": "flows_Dir-Tech_cred.json"
+        }
+    }
+}
